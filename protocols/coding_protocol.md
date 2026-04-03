@@ -1,4 +1,6 @@
-# Coding Protocol for the Utah /t/-Glottalization Study (v2026-03-16)
+# Coding Protocol for the Utah /t/-Glottalization Study (v.2026-04-03)
+
+[TODO] ADD INFO ABOUT BOUNDARY START AND OVERLAP
 
 ## 1. Overview
 
@@ -295,6 +297,7 @@ After annotation:
 1. Extract token information from the TextGrid.
 2. Enter token-level information into the coding spreadsheet.
 3. Each token should correspond to **one row** in the spreadsheet.
+4. Each token from the middle third of the interview will be coded on a separate spreadsheet.
 
 Required fields include:
 
@@ -307,6 +310,7 @@ Required fields include:
 * realization
 * phonological environment
 * stress
+* boundary start of token (in ms)
 
 **Surprisal values are merged later during statistical analysis.**
 
@@ -329,7 +333,7 @@ Derived from discourse type:
 
 ---
 
-### Hypercorrection vs. hypocorrection
+### Hypercorrection vs. baseline
 
 For **/t/-glottalization tokens**:
 
@@ -337,10 +341,10 @@ For **/t/-glottalization tokens**:
 | ------------ | --------------- |
 | tʰ           | hypercorrection |
 | t            | hypercorrection |
-| ʔ            | hypocorrection  |
-| creaky voice | hypocorrection  |
+| ʔ            | baseline        |
+| creaky voice | baseline        |
 
-FAIL–FELL tokens serve as a **control variable** and are not interpreted in terms of hyper/hypocorrection.
+FAIL–FELL tokens serve as a **control variable** and are not interpreted in terms of hypercorrection.
 
 ---
 
