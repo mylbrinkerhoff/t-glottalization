@@ -1,7 +1,5 @@
 # Coding Protocol for the Utah /t/-Glottalization Study (v.2026-04-03)
 
-[TODO] ADD INFO ABOUT BOUNDARY START AND OVERLAP
-
 ## 1. Overview
 
 This protocol outlines the procedures for annotating audio recordings from a sociolinguistic study of **Utah English**. The study investigates the realization of /t/ in contexts where **/t/-glottalization** may occur, with particular attention to how **surprisal and attention to speech (monitoring)** influence the likelihood of hypercorrection or hypocorrection.
